@@ -1,4 +1,5 @@
-#include "Keypad.h"
+#include "Keypad.h"  // https://playground.arduino.cc/Code/Keypad/
+// Sketch -> Include Library -> Manage Librarires -> "Keypad" -> Install
 
 const byte KEY_COLS   =    4;
 const byte KEY_ROWS   =    4;
