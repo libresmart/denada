@@ -1,0 +1,12 @@
+To sell a product with this software:
+  1.) The parts list must be publicly available.
+  2.) Build instructions must be publicly available.
+  3.) None of your customizations can be patented, or restricted by intellectual property rights, trademarks, copyright, etc.
+  4.) A hobbyist, with a 3D printer some microcontroller or electrical engineering knowledge and the documentation you provide, should be able to build and sell the exact same device without concern.
+  5.) If a larger firm attempts to go after a smaller firm for copying some parts of their design/process/etc., there is no need to proceed with the legal battle, the attempt by the larger firm is implicit indication that they are going to pay the smaller firm twice the amount the larger firm is demanding.
+    5.a.) For example: If Astrohous sells a device with any of this software and attempts to sue someone on Etsy for selling a copy of "their product", Astrohaus must pay the Etsy seller twice the (absolute value of) damages Astrohaus is claiming.
+  6.) As long as the designs are freely available, and clear enough for a hobbyist to clone, there is no restruction on the sale price of a finished product.
+    6.a.) There is value in build quality, even from the same design. Restricting the insentive to perfect the manufacturing process would be a disservice to the community.
+    
+If anyone reading this is a lawyer, feel free to create a pull-request to turn the above into legalese.
+  
