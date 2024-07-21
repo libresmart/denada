@@ -53,6 +53,7 @@ Installation/Setup:
 * Whatever you type on the keyboard shows up on the LCD screen.
 
 ## Caveats
-* Only printable characters and backspace are recognized.
-* The LCD screen does not scroll.
-* Cursor navigation not yet supported.
+* ~~Only printable characters and backspace are recognized.~~
+* ~~The LCD screen does not scroll.~~
+* ~~Cursor navigation not yet supported.~~
+* Does not save/load/export buffers
